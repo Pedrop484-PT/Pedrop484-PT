@@ -10,9 +10,9 @@ MSc student in Data Science and Advanced Analytics at NOVA IMS (Lisbon), economi
 | [painting-authorship-cnn](https://github.com/Pedrop484-PT/painting-authorship-cnn) | Painter attribution of 13,340 WikiArt paintings, 23 classes, ensemble at 78.5% accuracy | TensorFlow/Keras |
 | [financial-tweet-sentiment](https://github.com/Pedrop484-PT/financial-tweet-sentiment) | Bearish/Bullish/Neutral classification of 9,500 finance tweets, TF-IDF to transformers (private until 15 June 2026) | scikit-learn, Hugging Face |
 | [used-car-price-prediction](https://github.com/Pedrop484-PT/used-car-price-prediction) | Price regression, R² 0.97 on the held-out test set | scikit-learn |
+| [airline-customer-segmentation](https://github.com/Pedrop484-PT/airline-customer-segmentation) | Five customer segments from 16,735 airline loyalty members, CRISP-DM end to end | scikit-learn, pandas |
+| [pawpal-mysql-database](https://github.com/Pedrop484-PT/pawpal-mysql-database) | Relational database for a pet-supplies store: 3NF schema, triggers, SQL-view invoicing | MySQL |
 | [genetic-avatar](https://github.com/Pedrop484-PT/genetic-avatar) | The avatar on this profile: a genetic algorithm reconstructs my photo as a 24x24 grid in my CV palette, provably optimal for its palette | NumPy, Pillow |
-
-Earlier coursework (clustering-based airline customer segmentation, MySQL database design) lives in [Projects_DS](https://github.com/Pedrop484-PT/Projects_DS).
 
 ## Elsewhere
 
