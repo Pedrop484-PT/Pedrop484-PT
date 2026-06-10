@@ -19,3 +19,4 @@ Earlier coursework (clustering-based airline customer segmentation, MySQL databa
 National champion of the Global Management Challenge (2023, 44th edition, 480 teams), a strategy and management simulation.
 
 pedrop484.pc@gmail.com · [LinkedIn](https://linkedin.com/in/pedro-carrasqueira-985a61228)
+
